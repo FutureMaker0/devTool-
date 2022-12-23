@@ -9,6 +9,7 @@ jocoding > 이코테 가 로컬 저장소
 3. git commit -m "메세지" - 수정사항 적기
 4. git remote -v - 깃허브 remote 상태 보는 명령어
 5. git remote add origin https://github.com/FutureMaker0/-.git - remote 과정 완료
+- 5번 과정은 4번 입력 시 아무것도 안뜰 때 진행
 6. git push -u origin master 
 - 로컬 저장소에 있는 파일을 원격 저장소로 push
 
