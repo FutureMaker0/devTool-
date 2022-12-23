@@ -1,0 +1,19 @@
+jocoding > 이코테 가 로컬 저장소
+3번째 repository -.git이 원격 저장소
+
+로컬에 있는 문서를 수정
+
+로컬 저장소 위치에서
+1. git init
+2. git add "파일명" - 깃이 그 파일을 지켜보게 함
+3. git commit -m "메세지" - 수정사항 적기
+4. git remote -v - 깃허브 remote 상태 보는 명령어
+5. git remote add origin https://github.com/FutureMaker0/-.git - remote 과정 완료
+6. git push -u origin master 
+- 로컬 저장소에 있는 파일을 원격 저장소로 push
+
+결국 add > commit > push 의 순서로 진행된다고 할 수 있다.
+
+
+
+https://nevertrustbrutus.tistory.com/153
