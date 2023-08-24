@@ -34,3 +34,4 @@ jocoding > 이코테 가 로컬 저장소
 
 - 기타
   - https://hbase.tistory.com/16
+  - https://tngusmiso.tistory.com/57 (gitmoji)
