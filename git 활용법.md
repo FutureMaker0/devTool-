@@ -19,7 +19,7 @@ jocoding > 이코테 가 로컬 저장소
 # 참고 사이트
 - 개인 업로드
   - https://tychejin.tistory.com/357
-- https://nevertrustbrutus.tistory.com/153
+  - https://nevertrustbrutus.tistory.com/153
 
 - 브랜치
   - https://velog.io/@chayezo/Git-Github-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%97%B0%EA%B2%B0-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EC%B9%98-add-commit-push-pull
