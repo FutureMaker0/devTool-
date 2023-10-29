@@ -47,3 +47,19 @@ add > commit > push 의 순서로 진행된다고 할 수 있다.
   - https://hbase.tistory.com/16
   - https://tngusmiso.tistory.com/57 (gitmoji)
   - https://jw910911.tistory.com/77 (commit 메시지 수정)
+ 
+
+## 23.10.30 최신 update
+### main 브랜치에서 변경사항 추가하여 새로운 브랜치로 push 하고자할 때 방법 - 변경사항만 commit / push
+  - 새로운 브랜치(br1) github에서 직접 생성
+  - git clone -b 브랜치명(br1) —single-branch 깃헙url(레파지토리)
+    —> clone 해주는 것과는 별개로, ide에서 폴더 열기로 clone된 local 파일 열어주기
+  - cd local 폴더 - 위 과정을 통해 폴더 열기하면 자동으로 local 폴더로 경로 이동되어 있음
+  - 내용 수정
+  - git init
+  - git remote add origin url - git clone 하면 자동 연결 되어 있음
+  - git add .
+  - git branch        — 단순 점검용
+  - git remote -v   — 단순 점검용
+  - git commit -m “…”
+  - git push origin 브랜치명(br1)
